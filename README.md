@@ -1,5 +1,7 @@
  Title  Code Refactor
+ 
 Description
+
 This Code refactor project is focus mainly reviewing the existing web page code and try to meet the acceptance criteria which is required by the client. So based on the minimum requirements, this project work out for both on the HTML and CSS.
 
 In this Project before jump in the editing the codes and clean up the style we need to make the local files go lives because in the real server scenario we do not have C: drive things. So, to do this I upload all the files such as image assets to my personal git hub page and referring the deployed files link address to the main code, as necessary. Another important consideration in this project is that the links in the navigation bar are seated but they were not functional and Having easy-to-use navigation is important for any web site. So, based on this in this project I build a standard HTML as a base for each links and make the links going live using git hub project page. So, I referred those link addresses in the main code link element.
